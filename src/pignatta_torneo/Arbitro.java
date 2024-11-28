@@ -9,5 +9,9 @@ package pignatta_torneo;
  * @author Tommaso06
  */
 public class Arbitro {
+    public String nome;
     
+    public Arbitro(){
+        nome = "Tommaso";
+    }
 }
